@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\android\\workspace\\pjsipDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\android\\workspace\\pjsipDemo\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\android\\workspace\\pjsipDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\call.xml",
+        "source": "C:\\android\\workspace\\pjsipDemo\\app\\src\\main\\res\\menu\\call.xml"
+    }
+]
